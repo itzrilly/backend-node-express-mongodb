@@ -1,0 +1,19 @@
+{
+  "name": "backend-node-expres-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzrilly/backend-node-express-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itzrilly/backend-node-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/itzrilly/backend-node-express-mongodb#readme"
+}
